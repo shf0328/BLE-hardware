@@ -44,4 +44,6 @@ Temporary Items
 
 # other folder
 /History
-/_Previews
+/__Previews
+
+.LOG
